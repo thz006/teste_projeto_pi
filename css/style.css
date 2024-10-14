@@ -11,3 +11,11 @@
     width: 100px;
     height: 100px;
 }
+
+.vasco{
+    background-color: black;
+    display: flex;
+    width: 100px;
+    height: 100px;
+    color: white;
+}
